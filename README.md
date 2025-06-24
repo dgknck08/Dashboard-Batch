@@ -1,5 +1,4 @@
-/project-root
-   /images
-       dashboard.png
-   README.md
-
+redmine-batch-dashboard/
+    images/
+        dashboard.png
+    README.md
