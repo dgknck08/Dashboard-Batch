@@ -1,0 +1,33 @@
+# Node modules (npm paketleri)
+node_modules/
+
+# Build çıktı klasörleri
+build/
+dist/
+
+# Log dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Çalışma ortamı konfigürasyonları
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor ve OS dosyaları
+.DS_Store
+Thumbs.db
+
+# IDE ayarları (VSCode, IntelliJ vs)
+.vscode/
+.idea/
+
+# Test coverage raporları
+coverage/
+
+# Eğer varsa lock dosyaları (npm/yarn)
+package-lock.json
+yarn.lock
